@@ -43,6 +43,13 @@ Experience seamless scraping with Bright Data's [China proxies](https://brightda
 - **3G/4G/5G mobile IPs**
 - **24/7 global support**
 
+## Popular China proxy IP locations
+- [**Beijin proxies**](https://brightdata.com/locations/cn/beijing)
+- [**Shenzhen proxies**](https://brightdata.com/locations/cn/shenzhen)
+- [**Cixi proxies**](https://brightdata.com/locations/cn/cixi)
+- [**Shanghai proxies**](https://brightdata.com/locations/cn/shanghai)
+- [**Hangzhou proxies**](https://brightdata.com/locations/cn/hangzhou)
+
 Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
 
 ## Getting Started with Bright Data's United States proxies
