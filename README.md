@@ -1,6 +1,6 @@
 # Bright Dataの中国プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/cn) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/cn) 
 
 ## 概要
 Bright Dataの[中国プロキシ](https://brightdata.jp/locations/cn)でシームレスなスクレイピングをご体験ください。精密なターゲティング、比類のない安定性、高速なレスポンスタイムを提供するよう設計されています。中国からWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
@@ -50,7 +50,7 @@ Bright Dataの[中国プロキシ](https://brightdata.jp/locations/cn)でシー�
 - [**Shanghaiプロキシ**](https://brightdata.jp/locations/cn/shanghai)
 - [**Hangzhouプロキシ**](https://brightdata.jp/locations/cn/hangzhou)
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/cn) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/cn) 
 
 ## Bright Dataの米国プロキシの始め方
 1. **無料トライアルを開始**: クレジットカードは不要です。
